@@ -1,0 +1,102 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "firstName": "Yash",
+      "lastName": "Ghawghawe",
+      "email": "yashghwaghave@gmail.com",
+      "book": "Life is what you make it",
+      "region": "Asia",
+      "dob": "1997-11-10",
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "id": 2
+    },
+    {
+      "firstName": "Kalpesh",
+      "lastName": "ukey",
+      "email": "kalpesh.ukey@gmail.com",
+      "book": "Life is what you make it",
+      "dob": "1997-12-14",
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "id": 3
+    },
+    {
+      "firstName": "Shivam",
+      "lastName": "Rai",
+      "email": "shivam.rai@gamil.com",
+      "book": "Life is what you make it",
+      "dob": "1997-11-20",
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "id": 4
+    },
+    {
+      "firstName": "Vijay",
+      "lastName": "Chauhan",
+      "email": "yashghwaghave@gmail.com",
+      "book": "Life is what you make it",
+      "dob": "1997-12-14",
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "id": 5
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "name": "Life is what you make it",
+      "author": "preeti Sheenoy",
+      "imagepath": "https://m.media-amazon.com/images/I/41mkPm+3f+L.jpg",
+      "quantity": 1
+    },
+    {
+      "name": "Half GirlFriend",
+      "author": "Chetan Bhagat",
+      "imagepath": "https://upload.wikimedia.org/wikipedia/en/c/c6/Half_Girlfriend.jpg",
+      "id": 3,
+      "quantity": 1
+    },
+    {
+      "name": "Revolution  2020",
+      "author": "Chetan Bhagat",
+      "imagepath": "https://upload.wikimedia.org/wikipedia/en/4/44/Revolution_2020.jpg",
+      "id": 4,
+      "quantity": 1
+    },
+    {
+      "name": "Harry Potter Deathly Hallows",
+      "author": "J.K Rowling",
+      "imagepath": "https://images3.penguinrandomhouse.com/cover/9780739360385",
+      "id": 5,
+      "quantity": 1
+    },
+    {
+      "name": "Two States",
+      "author": "Chetan Bhagat",
+      "quantity": 1,
+      "id": 6
+    }
+  ]
+}
